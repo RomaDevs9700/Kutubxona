@@ -1,0 +1,21 @@
+body {
+    background-color: lime;
+    color: red;
+}
+
+.box {
+    text-align: center;
+    margin: 80px auto;
+}
+
+.form {
+    text-align: left;
+    background-color: rgb(238, 225, 238);
+    padding: 20px;
+    width: 300px;
+    margin-left: 525px;
+    color: blue; 
+}
+
+
+

@@ -1,0 +1,20 @@
+body {
+    background-color: lime;
+}
+
+.box {
+    text-align: center;
+    margin: 160px auto;
+}
+
+.form {
+    text-align: left;
+    background-color: magenta;
+    padding: 20px;
+    width: 300px;
+    margin-left: 525px;
+    color: blue; 
+}
+
+
+
